@@ -1,0 +1,16 @@
+{
+  "name": "Shalu Kumari Portfolio",
+  "short_name": "Shalu Portfolio",
+  "description": "Full Stack Web Developer Portfolio",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#111827",
+  "theme_color": "#3b82f6",
+  "icons": [
+    {
+      "src": "/human.png",
+      "sizes": "250x250",
+      "type": "image/png"
+    }
+  ]
+}
